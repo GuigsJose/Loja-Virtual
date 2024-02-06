@@ -20,5 +20,5 @@ public class Cliente {
     private String email;
     private String cpf;
     private String endereco;
-
+    private String senha;
 }
